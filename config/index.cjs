@@ -32,9 +32,9 @@ TEMPLATE_ID:"VgQq6qG4bKhWjz9zMCkYvQdPxOas75xeXq0NTEiR2-Y",
           type: '*生日', name: '宝贝', year: '2000', date: '09-11',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '李四', year: '2000', date: '10-08',
-        },
+      //  {
+       //   type: '生日', name: '李四', year: '2000', date: '10-08',
+       // },
         {
           type: '节日', name: '相识纪念日', year: '2021', date: '10-16',
         },
