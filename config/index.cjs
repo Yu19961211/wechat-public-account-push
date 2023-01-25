@@ -12,18 +12,18 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '808e68a6144f7637e3f727c5ec494b37',
-TEMPLATE_ID:"-n74v-Qncn0Tkf1pjZEKWOI8u3T2aMUCWCLLMLigcI",
-  PROVINCE: '河南',
-  CITY: '新郑',
+TEMPLATE_ID:"GEwtOCV_WbxoTeyoa_1LpcU7LtzknktPWLWTEIN71hQ",
+//  **PROVINCE: '河南',
+ //** CITY: '新郑',
 
-  USERS: [
+ USERS: [
     {
       // 想要发送的人的名字
       name: '韩',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ozkze6irTRrqsZT1GBukPZm2Yiuw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'I-n74v-Qncn0Tkf1pjZEKWOI8u3T2aMUCWCLLMLigcI',
+      useTemplateId: 'GEwtOCV_WbxoTeyoa_1LpcU7LtzknktPWLWTEIN71hQ',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-08',
       festivals: [
